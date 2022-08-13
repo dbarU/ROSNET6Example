@@ -1,0 +1,12 @@
+﻿{
+  "profiles": {
+    "ROSNET6": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development",
+        "ROS_MASTER_URI": "http://localhost: 11311"
+      }
+    }
+  }
+}
